@@ -80,6 +80,6 @@ def main():
             reply = generate_response(query)
             print(f"Bot: {reply}\n")
             speak(reply)
-# Your existing main function
+
 if __name__ == "__main__":
     main()
